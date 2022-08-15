@@ -1,8 +1,10 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Raven"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+As an individual, I am motivated more from within, and my inspiration to act is based on confidence in my rationality. Rarely concerned about the opinions of others, I work best when given opportunities to exercise independence and making my own decisions.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+As a team member, I gather inputs from peers before committing to decisions that affect the scalability and maintainability of a software solution. In cases of dispute, I prefer to facilitate decision making using statistics and data. At times of instability, I am often motivated to draft constraints to introduce a level of consistency.
+
+With my passion in technologies and experience in software engineering, I look forward to contributing to cross cutting technical needs such as security, software development and product delivery.
