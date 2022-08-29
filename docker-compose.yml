@@ -1,0 +1,12 @@
+﻿version: "3.3"
+services:
+  eztrackdoc:
+    image: jekyll/jekyll
+    command: bash -c "bundle install && jekyll serve"
+    container_name: dev_blog
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - "4000:4000"
+    environment:
+      PAGES_REPO_NWO: "Ez2Raven/blog"
