@@ -1,6 +1,6 @@
 ﻿version: "3.3"
 services:
-  eztrackdoc:
+  dev-blog:
     image: jekyll/jekyll
     command: bash -c "bundle install && jekyll serve"
     container_name: dev_blog
