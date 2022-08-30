@@ -44,7 +44,7 @@ There are tons of online articles and journals describing what is Imposter Syndr
 </figure>
 
 From my limited understanding, it is an observation made on individuals who credit their achievements to 
-external or transient (such as luck) instead of their own efforts and capabilities. 
+external or transient causes (such as luck) instead of their own efforts and capabilities. 
 
 I would simplify that understanding further, towards an extreme version of unconstructive self criticism.
 
@@ -53,12 +53,12 @@ productivity or induce self destructive behaviors in our professional lives.
 
 ## Identifying Symptoms Through Self Retrospection
 After quitting my job, I looked back and realised the following:
-1. 2 burnouts within 10 months.
-2. I blame myself when others do not uphold the standards I would upon myself.
-3. I blame myself despite completing 85% of the current strategic plans.
+1. I encountered 2 burnouts within 10 months.
+2. I blamed myself when other software developers do not uphold integrity as I would upon myself.
+3. I blamed myself despite completing 85% of the current strategic plans.
 4. Compliments and awards felt unearned.
 
-Perhaps, I was trying to do too many things at once and struggled to juggle between strategic thinking, 
+Perhaps, I was trying to do too many things at once. I struggled to juggle between strategic thinking, 
 planning, managing, implementing and team building.
 
 It also appears that this is a common phenomenon observed in Singapore, 
