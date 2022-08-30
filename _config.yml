@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Raven Ng"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Rant of a hands-on technologist"
+  bio    : "An individual passionate about how the world materialize innovation using technologies."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
