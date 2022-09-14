@@ -201,8 +201,6 @@ ___
 
 ___
 
-## Skillset
-
 ## Other Relevant Experience and Training
 * MCPS: Microsoft Certified Professional
 * MS: Programming in HTML5 with JavaScript and CSS3
