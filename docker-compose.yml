@@ -2,7 +2,7 @@
 services:
   dev-blog:
     image: jekyll/jekyll
-    command: bash -c "bundle install && jekyll serve"
+    command: bash -c "bundle install && jekyll serve --force_polling"
     container_name: dev_blog
     volumes:
       - .:/srv/jekyll
