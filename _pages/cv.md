@@ -87,18 +87,18 @@ ___
 #### Main Responsibilities
 * Liaise with product principals to propose a real-time data transformation solution using 
 Confluent Kafka to support the coexistence of legacy and greenfield software.
-* Lead the technical efforts to modernize a legacy C# reporting module to a hybrid cloud Java reporting solution
-* Address cross cutting architectural concerns and document the rationales for aforementioned hybrid cloud reporting solution
-* Responsible for the adoption and implementation of Atlassian products to help teams work smarter together
+* Lead the technical efforts to modernize a legacy C# reporting module to a hybrid cloud Java reporting solution.
+* Address cross cutting architectural concerns and document the rationales for aforementioned hybrid cloud reporting solution.
+* Responsible for the adoption and implementation of Atlassian products to help teams work smarter together.
 
 #### Software Engineering
 * Conduct technical interviews for .NET developers.
 * Technical owner and administrator for on-premise Atlassian suite.
-* Construct documentation templates to transfer software knowledge using Atlassian Confluence
+* Construct documentation templates to transfer software knowledge using Atlassian Confluence.
 
 #### Software Infrastructure
-* Administrate linux servers
-* Operate Alibaba Kubernates
+* Administrate linux servers.
+* Operate Alibaba Kubernates.
 
 #### Automation
 * Reduce human error and time to deploy applications in a sanctioned production environment through powershell scripting.
@@ -113,10 +113,10 @@ Confluent Kafka to support the coexistence of legacy and greenfield software.
 * Proposed full stack development approach for microservices based on C# .NET Core.
 * Researched and reviewed options for mobile development: Progressive Web Application, 
 native cross platform mobile application and native mobile application.
-* 3rd level technical support for Casino Management System
+* 3rd level technical support for Casino Management System.
 
 ### Reason For Leaving
-* Organizational restructuring due to covid pandemic
+* Organizational restructuring due to covid pandemic.
 
 ___
 
@@ -131,14 +131,14 @@ ___
 * Provide 3rd level support for a bespoke Fix Messaging Application developed using QuickFIX.
 
 #### Proposals 
-* Analyze, design and proposed a microservice architecture that balances the risks of greenfield projects against monolithic solutions 
+* Analyze, design and proposed a microservice architecture that balances the risks of greenfield projects against monolithic solutions. 
 * Research and develop proof-of-concept for a microservice application using oAuth 2.0, Docker, MySQL and Xamarin on IBM BlueMix Container Service.
 
 #### Software Infrastructure
-* Administrate linux servers
+* Administrate linux servers.
 
 ### Reason For Leaving
-* Better Compensation and professional development
+* Better Compensation and professional development.
 
 ___
 
@@ -153,15 +153,15 @@ ___
 * Manage software projects of different domains, technologies and complexities.
 
 #### Software Engineering
-* Conduct technical interviews for .NET developers
-* Technical owner and administrator for on-premise Atlassian suite
-* Create and manage project portfolios to report on cost and revenue using JIRA Tempo Folio
+* Conduct technical interviews for .NET developers.
+* Technical owner and administrator for on-premise Atlassian suite.
+* Create and manage project portfolios to report on cost and revenue using JIRA Tempo Folio.
 
 #### Software Infrastructure
-* Administrate linux servers
+* Administrate linux servers.
 
 ### Reason For Leaving
-* Professional development
+* Professional development.
 
 ___
 
@@ -171,15 +171,15 @@ ___
 
 #### Main Responsibilities
 * Development of Social Media Analytics Web Application.
-* Development of Enterprise Unified Communications Mobile Applications
-* Research business opportunities, software limitations and development on Android specific projects
+* Development of Enterprise Unified Communications Mobile Applications.
+* Research business opportunities, software limitations and development on Android specific projects.
 * Rapid prototyping and development of web applications using popular frameworks: AngularJs, jQuery and Bootstrap.
 
 #### Software Engineering
 * Apply C# best practices and code refactoring to decrease technical debts saving cost to support deployed solutions.
 
 ### Reason For Leaving
-* Better compensation
+* Better compensation.
 
 ___
 
@@ -197,25 +197,25 @@ ___
 * Wrote a reusable C# console application to dynamically resize and rename hundreds of image assets.
 
 ### Reason For Leaving
-* Pursue further education
+* Pursue further education.
 
 ___
 
 ## Other Relevant Experience and Training
-* MCPS: Microsoft Certified Professional
-* MS: Programming in HTML5 with JavaScript and CSS3
+* MCPS: Microsoft Certified Professional.
+* MS: Programming in HTML5 with JavaScript and CSS3.
 
 ## Education
 ### Nanyang Polytechnic <br>Diploma in Engineering Informatics, Computer Software Engineering
 *April 2006 - March 2009 · 3 years*
 
 #### Grade: Diploma with Merit 
-* 3rd place in cohort
+* 3rd place in cohort.
 
 #### Achievements & Extracurricular Activities
-- Director List 2008/2009
-- Main Organiser of NYP Sudoku Challenge 2007
-- Team Lead of 60 members for Poly Forum 2007
-- Host for SIT – Graduation Ceremony 2007
-- Team Lead of 25 members for Pre-University Seminar 2007
+- Director List 2008/2009.
+- Main Organiser of NYP Sudoku Challenge 2007.
+- Team Lead of 60 members for Poly Forum 2007.
+- Host for SIT – Graduation Ceremony 2007.
+- Team Lead of 25 members for Pre-University Seminar 2007.
 - Achieved ST Electronics (Training & Simulation Systems) Pte Ltd Appreciation Award for contribution during internship.
