@@ -7,3 +7,10 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+homelab:
+  - title: "Designing A Home Lab For Developers"
+    children:
+      - title: "Part 1: Solution Design"
+        url: /homelab/solution-design
+      - title: "Part 2: Configure Development Machine"
+        url: /homelab/dev-machine

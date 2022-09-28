@@ -1,16 +1,10 @@
-﻿---
-title: "Part 2: Configure & Monitor The Budget."
-layout: "single"
-collection: homelab
----
-
 # Executive Summary
 
 # Requirements, Constraints & Preferences
 
 ## Requirements
 
-## Constraints 
+## Constraints
 
 ## Preferences
 
