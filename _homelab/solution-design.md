@@ -62,8 +62,8 @@ Fortunately, development tools that I used are either perpetual license, open-so
 within the annual billing cycle.
 
 # Preferences
-Since I'm a .NET Professional, I am more accustomed to Microsoft's ecosystem of
-tools, technologies and documentation.
+I'm a .NET guy, naturally I am more accustomed to Microsoft's ecosystem of
+tools, technologies and documentation. (That doesn't mean I'm biased against other technologies)
 
 Therefore, most of the resources used in this series will be specific to .NET and 
 Azure to achieve a working baseline. After which, I will focus on vendor agnostic implementation
