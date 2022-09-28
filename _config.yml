@@ -82,6 +82,11 @@ footer:
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCGsXLaFrqbMDm4Ki1WsA1KA"
 
+collections:
+  homelab:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
@@ -91,7 +96,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -108,12 +113,8 @@ defaults:
     values:
       layout: single
       author_profile: false
+      read_time: true
       share: true
-      
-collections: 
-  homelab:
-    output: true
-    permalink: /:collection/:path/
     
 category_archive:
   type: liquid
