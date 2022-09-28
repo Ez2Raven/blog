@@ -10,7 +10,7 @@ main:
 homelab:
   - title: "Designing A Home Lab For Developers"
     children:
-      - title: "Part 1: Solution Design"
+      - title: "Part 1: Development Sandbox Solution Design"
         url: /homelab/solution-design
-      - title: "Part 2: Configure Development Machine"
+      - title: "Part 2: Development Machine Configuration"
         url: /homelab/dev-machine

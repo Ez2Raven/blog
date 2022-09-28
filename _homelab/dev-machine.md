@@ -1,17 +1,28 @@
 ---
-title: Configure Development Machine
-classes: wide
+title: Development Machine Provisioning
 header:
-    image: /assets/images/homelab.jpg
-    teaser: /assets/images/homelab-th.jpg
+    image: assets/images/homelab.jpg
+    caption: "Which is better? Vertical or Horizontal Monitor Mount?"
+    teaser: assets/images/homelab-th.jpg
 sidebar:
     title: "In This Series"
     nav: homelab
-gallery:
-- url: /assets/images/homelab.jpg
-  image_path: assets/images/homelab-th.jpg
-  alt: "Part 1: Setup Development Machine"
+toc: true
+classes: wide
+excerpt_separator: "<!--more-->"
+part: 2
 ---
+
+{% capture notice-1 %}
+This is Part 2 of the "{{page.display_name}}" series. 
+
+In this article, we will explore the ease of installing the software needed
+on our development machine.
+{% endcapture %}
+
+<div class="notice--info">{{ notice-1 | markdownify }}</div>
+
+<!--more-->
 
 # List Of Software and Tools
 
@@ -32,10 +43,15 @@ gallery:
 
 {% capture notice-2 %}
 #### My Take On Chocolatey For Organization Usage (Not Legal Advice)
-Trust - As an organization you don't know who the maintainers of a package are, and therefore you can't trust them based on Chocolatey's
-say so (or perhaps you can, that's an organizational decision).
-You would normally vet the code in the packages and independently test them to ensure they meet your organizations standards.
+Having dedicated DevOps personnel does not mean an organization understands who the repositories mainainers are,
+and by extension, the intent and changes made by public maintainers. 
+
+It is in an organization's best interest to assume ownership of its own private repositories so 
+that DevOps personnel can inspect the code in the packages and validate them to ensure
+packages adhere to the organization standards.
 {% endcapture %}
 
 <div class="notice--danger">{{ notice-2 | markdownify }}</div>
 
+**To Be Continued:** How to install the above software using Powershell
+{: .notice--info}
