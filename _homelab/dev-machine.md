@@ -11,6 +11,7 @@ toc: true
 classes: wide
 excerpt_separator: "<!--more-->"
 part: 2
+tags: homelab
 ---
 
 {% capture notice-1 %}
