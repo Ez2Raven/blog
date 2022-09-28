@@ -101,7 +101,20 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+  # _homelab
+  - scope:
+      path: ""
+      type: homelab
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      
+collections: 
+  homelab:
+    output: true
+    permalink: /:collection/:path/
+    
 category_archive:
   type: liquid
   path: /categories/
