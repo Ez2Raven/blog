@@ -9,7 +9,9 @@ sidebar:
     nav: homelab
 toc: true
 classes: wide
+excerpt_separator: "<!--more-->"
 part: 1
+tags: homelab
 ---
 
 {% capture notice-1 %}
