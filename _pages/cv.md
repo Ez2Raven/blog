@@ -39,11 +39,11 @@ pre-sales solutioning, architecture and software engineering.
 * A solution provider and problem solver, his analytical thinking allows him to identify and analyze problems quickly 
 before proposing creative solutions for best fit and best practices.
 
-## Value Proposition
-An Architect (INT-J) characteristic with solid technical skills in .net development and an uncanny extroverted 
-personality during technical discussions, allows him to lead technical teams and value add to the team immediately.
-
 ## Career History
+### Career Break: Health and Well-being
+*May 2022 - Sep 2022 · 5 months*
+{% link _posts/2022-08-29-imposter-syndrome.md %}
+
 ### Infosys Compaz Pte Ltd<br>Software Development Contractor for Daimler S.E.A
 
 *April 2021 - April 2022 · 1 year contract*
