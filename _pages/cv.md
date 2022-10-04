@@ -42,7 +42,8 @@ before proposing creative solutions for best fit and best practices.
 ## Career History
 ### Career Break: Health and Well-being
 *May 2022 - Sep 2022 · 5 months*
-{% link _posts/2022-08-29-imposter-syndrome.md %}
+
+[Retrospection on the individual and career]({% link _posts/2022-08-29-imposter-syndrome.md %})
 
 ### Infosys Compaz Pte Ltd<br>Software Development Contractor for Daimler S.E.A
 
