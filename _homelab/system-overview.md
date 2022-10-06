@@ -71,8 +71,10 @@ I encourage peers to exercise appropriate evaluations, so as to create awareness
 Let's do a quick evaluation and document workaround for our omissions above.
 
 ## Azure Firewall
-We will use NSGs (Network Security Group) to secure network ports to each provisioned VNET (Virtual Network).
+We will use NSGs (Network Security Group) to secure Layer 3-4, restricting data to/from network ports within each provisioned VNET (Virtual Network).
 If need be, we can also bind the NSGs rules to individual NICs (Network Interface) belonging to individual Azure resource. 
+
+We will have to give up on Layer 5-7 (Session, Presentation, Application) security policies, but it's a luxury resource for a home lab at $900 per month.
 
 ## Bastion
 The alternate implementation is to provision a secured Windows VM (Virtual Machine) in a sanctioned VNET and whitelist ip ranges using VNET peering.
