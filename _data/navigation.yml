@@ -14,3 +14,5 @@ homelab:
         url: /homelab/solution-design
       - title: "Part 2: Development Machine Configuration"
         url: /homelab/dev-machine
+      - title: "Part 3: Home Lab Cloud System Overview"
+        url: /homelab/system-overview
