@@ -33,6 +33,8 @@ timezone: Asia/Singapore # https://en.wikipedia.org/wiki/List_of_tz_database_tim
 
 include:
   - _pages
+exclude:
+  - diagrams
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
