@@ -1,8 +1,6 @@
 ---
 title: Home Lab Cloud System Overview
 header:
-    image: assets/images/homelab-system.png
-    caption: "Diagramming as Code reduces documentation upkeep, agree?"
     teaser: assets/images/homelab-system-th.png
 sidebar:
     title: "In This Series"
