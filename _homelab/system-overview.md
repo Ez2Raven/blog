@@ -52,14 +52,15 @@ Here's a brief summary of the scope and justification for each resource:
 # Exclusions (~because reasons~)
 Here's a list of resources that will not be implemented in my first rollout:
 
-| Resource        | Why                                                                        |
-|-----------------|----------------------------------------------------------------------------|
-| Azure Firewall  | Not going to spend $900 per month on home lab for a single person.         |
-| Atlassian Tools | Moved to upcoming article on DevSecOps toolchain.                          |
-| Github          | Moved to upcoming article on DevSecOps toolchain.                          |
-| Bastion         | Limited use case, but required when working on hybrid cloud AD federation. |
-| Jump Machine    | Limited use case, but required when handling sensitive data on the cloud.  |
-| Dockerhub       | Replaced with ACR, since ACR is relative affordable for individual usage.  |
+| Resource         | Why                                                                        |
+|------------------|----------------------------------------------------------------------------|
+| Azure Firewall   | Not going to spend $900 per month on home lab for a single person.         |
+| Atlassian Tools  | Moved to upcoming article on DevSecOps toolchain.                          |
+| Github           | Moved to upcoming article on DevSecOps toolchain.                          |
+| Bastion          | Limited use case, but required when working on hybrid cloud AD federation. |
+| Jump Machine     | Limited use case, but required when handling sensitive data on the cloud.  |
+| Dockerhub        | Replaced with ACR, since ACR is relative affordable for individual usage.  |
+| Azure Front Door | Base cost $35 + traffic charges to enable custom domain for Azure AD B2C   |
 
 Experience has taught me to articulate design considerations that are omitted from scope.
 I encourage peers to exercise appropriate evaluations, so as to create awareness for security and productivity. 
